@@ -1,3 +1,0 @@
-source "drivers/soc/sprd/power/power_debug/Kconfig"
-source "drivers/soc/sprd/power/power_stat/Kconfig"
-

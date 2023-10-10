@@ -1,1 +1,0 @@
-obj-$(CONFIG_SPRD_POWER_DEBUG) += sprd_pdbg.o

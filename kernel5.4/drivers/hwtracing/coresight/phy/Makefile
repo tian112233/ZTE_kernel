@@ -1,1 +1,0 @@
-obj-$(CONFIG_SPRD_SHARKL6PRO_CORESIGHT_PHY)	+= phy-sprd-sharkl6pro.o

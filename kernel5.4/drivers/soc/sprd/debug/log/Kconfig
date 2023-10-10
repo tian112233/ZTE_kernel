@@ -1,6 +1,0 @@
-config SPRD_USERLOG
-	tristate "Enable SPRD user log feature"
-	depends on SPRD_DEBUG
-	default n
-	help
-	  This option enables SPRD log feature for user log point.

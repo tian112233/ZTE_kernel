@@ -1,5 +1,0 @@
-config SPRD_APB_PROT
-	tristate "Spreadtrum APB PROT Support"
-	depends on SPRD_DEBUG
-	help
-	  Say Y here to support APB PROT
